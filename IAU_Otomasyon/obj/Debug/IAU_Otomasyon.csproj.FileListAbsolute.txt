@@ -1,0 +1,88 @@
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe.config
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Anasayfa.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Properties.Resources.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliGiris.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenGiris.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciGiris.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliEkran.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciEkran.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenEkran.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Akademisyen_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\YENİ PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ders_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe.config
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.akademisyen.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenEkran.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenGiris.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Akademisyen_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Anasayfa.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ders_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.DuyuruEkle.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.DuyuruOku.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciEkran.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciGiris.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Properties.Resources.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliEkran.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliGiris.resources
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\C# PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe.config
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.akademisyen.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenEkran.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenGiris.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Akademisyen_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Anasayfa.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ders_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.DuyuruEkle.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.DuyuruOku.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciEkran.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciGiris.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Properties.Resources.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliEkran.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliGiris.resources
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\C PROJE\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe.config
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\bin\Debug\IAU_Otomasyon.pdb
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.akademisyen.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenEkran.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.AkademisyenGiris.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Akademisyen_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Anasayfa.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ders_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.DuyuruEkle.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.DuyuruOku.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciEkran.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.OgrenciGiris.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Ogrenci_Duzenle.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.Properties.Resources.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliEkran.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.YetkiliGiris.resources
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.exe
+C:\Users\Savaşkurt\Desktop\C#  Otomasyon Proje\IAU_Otomasyon\IAU_Otomasyon\obj\Debug\IAU_Otomasyon.pdb
